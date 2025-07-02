@@ -21,6 +21,10 @@ It includes a **FastAPI** backend and a **React** frontend.
 - **Vite** – Development server
 
 ---
+## DOCS 
+docs/marvel_tests.png  
+docs/mervel_app_logs.png
+docs/swagger.png
 
 ## 📁 Project Structure
 
