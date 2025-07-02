@@ -1,0 +1,31 @@
+# === Node (Frontend) ===
+node_modules/
+dist/
+build/
+.vite/
+.env
+.env.*
+
+# === Python (Backend) ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+*.bak
+.venv/
+venv/
+env/
+db.sqlite3
+.env
+alembic/versions/*.pyc
+
+# === System / IDE ===
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.zip
+*.tar.gz
