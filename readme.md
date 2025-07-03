@@ -56,7 +56,10 @@ source venv/bin/activate       # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
+
+
 🗃️ Populate the Database
+
 After setting up the backend and installing the requirements, you can populate the PostgreSQL database with Marvel movie data by running the following script:
 ```
 cd backend
