@@ -43,6 +43,7 @@ MOVIES
 │ └── .env # Environment variables
 ├── frontend/ # React app
 └── README.md # You're here
+![image](https://github.com/user-attachments/assets/ce42a8c8-bd99-4e65-8ff9-c1b868b0b1ed)
 
 
 ---
